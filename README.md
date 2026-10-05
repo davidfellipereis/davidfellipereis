@@ -1,30 +1,35 @@
-# David Fellipe Alves dos Reis
+David Fellipe Alves dos Reis
 
-### Blue Team | SOC | Infraestrutura e Segurança da Informação
+Suporte Corporativo | Infraestrutura de TI | Redes e Sistemas
 
-Profissional de infraestrutura de TI em transição para **Blue Team/SOC**, com experiência em suporte corporativo, redes, Active Directory, Azure AD, TCP/IP, DNS, DHCP e tratamento de incidentes.
+Profissional de TI com sólida experiência em suporte corporativo, redes, Active Directory, Azure AD, TCP/IP, DNS, DHCP, administração de sistemas e tratamento de incidentes.
 
-Atualmente, aprofundo meus estudos em monitoramento de segurança, análise de logs, resposta a incidentes, Linux e segurança de redes.
+Atualmente, busco aprimorar continuamente minhas habilidades em resolução de problemas complexos, atendimento ao usuário e gestão de infraestrutura.
 
-## Tecnologias e conhecimentos
+Tecnologias e conhecimentos
 
-- Redes: TCP/IP, DNS, DHCP, conectividade e troubleshooting
-- Identidade: Active Directory e Azure Active Directory
-- Sistemas: Windows e Linux
-- Segurança: análise de incidentes, fundamentos de SOC, pentest em laboratório e criptografia
-- Ferramentas: Kali Linux, Nmap, Wireshark, Python e Git/GitHub
+Redes: TCP/IP, DNS, DHCP, conectividade e troubleshooting avançado
 
-## Projetos em destaque
+Identidade e Acessos: Active Directory e Azure Active Directory (Entra ID)
 
-- 🔐 Laboratório em blue team
-- 🖥️ MyTens OS Linux: projeto de sistema Linux
-- 🎥 MyTens Web Security: conteúdo educativo sobre cibersegurança, segurança web e boas práticas
+Sistemas Operacionais: Windows Server, Windows 10/11 e Linux
 
-## Objetivo profissional
+Suporte e Atendimento: Help Desk, Service Desk, atendimento a chamados (ITIL) e suporte a usuários
 
-Busco oportunidade como **Analista SOC Júnior**, **Analista de Segurança da Informação Júnior** ou em funções de **Blue Team**, contribuindo com minha experiência em infraestrutura e evolução contínua em defesa cibernética.
+Ferramentas e Automação: Git/GitHub, Python básico e monitoramento de ativos
 
-## Contato
+Projetos em destaque
 
-[LinkedIn](linkedin.com/in/davidreis-cybersecurity/ ) •
-[YouTube](https://www.youtube.com/@mytenswebsecurity)
+💻 MyTens OS Linux: projeto de sistema Linux voltado para estudos e customização
+
+🔒 Laboratório de Infraestrutura: simulação de ambientes corporativos e resolução de falhas
+
+🛡️ MyTens Web Security: conteúdo educativo sobre cibersegurança, segurança web e boas práticas
+
+Objetivo profissional
+
+Busco oportunidade como Analista de Suporte Júnior, Analista de Service Desk ou Técnico de Infraestrutura, contribuindo com minha experiência prévia em atendimento corporativo, resolução ágil de incidentes e foco na satisfação do usuário.
+
+Contato
+
+LinkedIn • YouTube • E-mail
