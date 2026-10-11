@@ -1,31 +1,56 @@
-Olá, eu sou o David Fellipe! 👋
+# 👋 Olá, eu sou o David Fellipe!
 
+**Analista de Infraestrutura e Redes | Segurança da Informação | Blue Team**
 
+Profissional de TI com experiência em infraestrutura, redes corporativas, suporte técnico e administração de ambientes Windows. Atualmente, estou direcionando minha carreira para **Segurança da Informação**, aprofundando meus conhecimentos em monitoramento, análise de incidentes, defesa cibernética e ethical hacking.
 
-Profissional de TI com sólida experiência em suporte corporativo, administração de redes, Active Directory, Azure AD, TCP/IP, DNS, DHCP, sistemas operacionais e tratamento de incidentes.
+🎯 Meu objetivo é aplicar minha experiência em infraestrutura para identificar vulnerabilidades, fortalecer ambientes corporativos e contribuir para a segurança dos ativos de TI.
 
-Atualmente, busco aprimorar continuamente minhas habilidades em resolução de problemas complexos, atendimento ao usuário e gestão de infraestrutura de TI.
+## 🚀 Tecnologias e conhecimentos
 
-🚀 Tecnologias e conhecimentos
+- **Redes:** TCP/IP, DNS, DHCP, troubleshooting e monitoramento de conectividade.
+- **Sistemas operacionais:** Windows, Windows Server e Linux.
+- **Identidade e acesso:** Active Directory, Azure Active Directory / Entra ID.
+- **Infraestrutura:** suporte N1/N2, análise de incidentes e documentação técnica.
+- **Cibersegurança:** fundamentos de SOC, Blue Team, ethical hacking e pentest web.
+- **Ferramentas e linguagens:** Kali Linux, Nmap, Metasploit, Python e Git/GitHub.
 
-Redes: TCP/IP, DNS, DHCP, conectividade e troubleshooting avançado
+## 🛡️ Projetos em destaque
 
-Identidade e Acessos: Active Directory, Azure Active Directory / Entra ID
+### 🐧 MyTens OS Linux
+Projeto de sistema operacional Linux voltado para estudos, otimização e personalização, com ferramentas e recursos direcionados ao ambiente de TI.
 
-Sistemas Operacionais: Windows Server, Windows 10/11 e Linux
+### 🔐 MyTens Web Security
+Projeto de conteúdo educacional sobre cibersegurança, ethical hacking, pentest, segurança de aplicações web e boas práticas de proteção digital.
 
-Suporte e Atendimento: Help Desk / Service Desk, gestão de chamados e suporte a usuários
+### 🖥️ Laboratório de Infraestrutura e Segurança
+Estudos práticos envolvendo ambientes virtuais, redes, administração de sistemas, monitoramento e análise de incidentes.
 
-Ferramentas: Git/GitHub, automação básica com Python e monitoramento de ativos
+## 📚 Formação acadêmica
 
-💼 Projetos em destaque
+- **Pós-graduação em Segurança da Informação** — SENAC.
+- **Bacharelado em Sistemas de Informação** — UNINOVE.
 
-💻 MyTens OS Linux: Projeto de sistema Linux voltado para estudos, otimização e customização.
+## 🎓 Cursos e capacitações
 
-🛠️ Laboratório de Infraestrutura: Simulação de ambientes corporativos, domínios e resolução de falhas de rede.
+- Foundations of Cybersecurity — Google.
+- Introdução aos Ataques Cibernéticos — New York University.
+- Pentest e Hacking em Sites e Aplicações Web — Udemy.
+- Ethical Hacking com Kali Linux, Nmap e Metasploit — Udemy.
+- Linux — Curso em Vídeo.
 
-🛡️ MyTens Web Security: Conteúdo educativo sobre cibersegurança, segurança web e boas práticas de TI.
+## 🎯 Objetivos profissionais
 
-🎯 Objetivo profissional
+Estou em busca de oportunidades para crescer na área de Segurança da Informação, especialmente em atividades relacionadas a **Blue Team, IAM monitoramento de segurança e análise de incidentes**, aproveitando minha experiência prática em infraestrutura e redes.
 
-Busco oportunidade como Analista de Suporte Júnior ou Analista de Service Desk, contribuindo com minha experiência prévia em atendimento corporativo, resolução ágil de incidentes e foco na excelência do suporte ao usuário.
+Acredito que a evolução profissional acontece por meio de estudos contínuos, laboratórios práticos, compartilhamento de conhecimento e desafios reais.
+
+## 📫 Entre em contato
+
+- 💼 **LinkedIn:** [David Fellipe Reis](https://linkedin.com/in/david-fellipe-reis)
+- 📧 **E-mail:** dreis14@yahoo.com.br
+- 🐙 **GitHub:** [@davidfellipereis](https://github.com/davidfellipereis)
+
+---
+
+⭐ *Aprendendo, construindo projetos e evoluindo na jornada pela Segurança da Informação.*
